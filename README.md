@@ -1,3 +1,3 @@
 # learningGit1
 
-This change is made on my pc
+This change is made on my Laptop
